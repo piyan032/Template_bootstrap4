@@ -1,0 +1,185 @@
+
+		body {
+			background-color: #f7f7f7;
+		}
+		.navbar {
+			background-color: rgb(0,0,0); /* Fallback color */
+			background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
+		}
+		
+		#navbarToggleExternalContent {
+			background-color: rgb(0,0,0); /* Fallback color */
+			background-color: rgba(0,0,0, 0.5); /* Black w/opacity/see-through */
+		}
+		
+		.navbar-brand {
+			font-family: 'Fruktur', cursive;
+		
+			letter-spacing: 2px;
+		}
+		
+		.navbar-toggler {
+			border: none;
+			font-family: 'Fruktur', cursive;
+			color: #fff;
+		}
+		
+		.navbar-toggler:hover {
+			border-bottom: 1px solid #fff;
+		}
+		
+		.navbar-nav li a {
+			text-decoration: none;
+			font-family: 'Raleway', sans-serif;
+			font-family: 'Merienda One', cursive;
+			color: #fff;
+		}
+		
+		.jumbotron {
+			background-image: url('https://scstylecaster.files.wordpress.com/2017/11/street-style-winter.jpg');
+			background-repeat: no-repeat;
+			background-position: top center ;
+			background-size: cover;
+			height: 650px;
+			padding: 0;
+			margin: 0;
+		}
+		
+		.box {
+			background-color: rgb(0,0,0); /* Fallback color */
+			background-color: rgba(0,0,0, 0.7); /* Black w/opacity/see-through */
+			top: 0;
+			position: absolute;
+			height: 650px;
+			width: 100%;
+		}
+		
+		.box .container {
+			padding: 17% 15%;
+			text-align: center;
+		}
+		
+		.box .container h1 {
+			font-family: 'Fruktur', cursive;
+			color: #fff;
+			font-weight: bold;
+			letter-spacing: 3px;
+		}
+		
+		
+		#content1 {
+			margin-left: auto;
+			margin-right: auto;
+			padding: 5%;
+			border: none;
+		}
+		
+		#content1 img {
+			width: 300px;
+			height: 300px;
+			border-radius: 50%;
+			padding: 5px;
+			margin: 5% 15%;
+		}
+		
+		#content2 {
+			margin-left: auto;
+			margin-right: auto;
+			padding: 5%;
+			background-color: #1089ff;
+			border: none;
+		}
+		
+		#content2 img {
+			width: 300px;
+			height: 300px;
+			border-radius: 50%;
+			padding: 5px;
+			margin: 5% 15%;
+			background: transparent;
+		}
+		
+		.card-title {
+			font-family: 'Fruktur', cursive;
+		}
+		
+		.card-deck {
+			padding: 0;
+			margin: auto;
+			text-align: center;
+			
+		
+		}
+		
+		.card-deck .card {
+			padding:2%;
+		}
+		
+		.card-deck img {
+			width: 300px;
+			height: 300px;
+			border-radius: 50%;
+			padding: 1%;
+			margin-left: auto;
+			margin-right: auto;
+			background: none;
+		}
+		
+		footer {
+			margin: 0;
+			padding: 0;
+			color: #999;
+		}
+		
+		footer h2 {
+			font-family: 'Fruktur', cursive;
+			font-size: 2vw;
+			text-align: center;
+		}
+		
+		footer .fa {
+			font-size: 10vw;
+			margin:0 0 0 30%; 
+		}
+	
+		
+		footer ul li {
+			list-style-type: none;
+			text-align: left;
+			font-size: 1vw;
+			line-height: 250%;
+		}
+		
+		.card {
+			padding: 2%;
+			border: none;
+			border-radius: 0;
+			background-color: #f7f7f7;
+		}
+		
+		.contact i {
+			font-size: 1.5vw;
+			border-radius: 100%;
+			margin: 0;
+		}
+
+		#card-footer {
+			background-color: #fff;
+		}
+		footer #license {
+			padding: 0;
+			margin: 0;	
+			color: #999;
+			font-size: 1vw;
+		}
+		
+		#footersend {
+			position: absolute;
+			z-index: 1;
+			bottom: 18px;
+			right: 0;
+		}
+		#license .fa {
+			font-size: 1vw;
+		}
+		
