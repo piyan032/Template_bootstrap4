@@ -40,7 +40,8 @@
 			background-repeat: no-repeat;
 			background-position: top center ;
 			background-size: cover;
-			height: 650px;
+			background-attachment: fixed;
+			min-height: 650px;
 			padding: 0;
 			margin: 0;
 		}
